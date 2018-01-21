@@ -300,7 +300,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "15 MARCH 2018",
-                "active": true
+                "active": false
               },
               {
                 "tags": "March",
@@ -336,7 +336,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "15 APRIL 2018",
-                "active": false
+                "active": true
               },
               {
                 "tags": "February",
