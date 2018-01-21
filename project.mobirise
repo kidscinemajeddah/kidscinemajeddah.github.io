@@ -303,18 +303,6 @@
                 "active": false
               },
               {
-                "tags": "March",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/verycheapholiday-films-iceage4-1000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/verycheapholiday-films-iceage4-1000x1500-800x1200.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "1 MARCH 2018",
-                "active": false
-              },
-              {
                 "tags": "April",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -327,18 +315,6 @@
                 "active": false
               },
               {
-                "tags": "April",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/the-lego-movie-800x1200.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/the-lego-movie-800x1200-800x1200.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "15 APRIL 2018",
-                "active": true
-              },
-              {
                 "tags": "February",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -349,6 +325,30 @@
                 "customStyle1": "display-7",
                 "caption": "8 Feb 2018",
                 "active": false
+              },
+              {
+                "tags": "March",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/verycheapholiday-films-iceage4-1000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/verycheapholiday-films-iceage4-1000x1500-800x1200.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "1 March 2018",
+                "active": false
+              },
+              {
+                "tags": "April",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/the-lego-movie-800x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/the-lego-movie-800x1200-800x1200.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "1 March 2018",
+                "active": true
               }
             ]
           }
